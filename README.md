@@ -67,7 +67,7 @@ https://www.scribd.com/document/{document_id}/{document_title}
    - You can run the program by entering the following command:
 
    ```
-   python bypass.py
+   python viewer.py
    ```
 4. Enter the Scribd document link when prompted.
 
