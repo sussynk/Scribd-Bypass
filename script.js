@@ -8,7 +8,7 @@ console.log(link_format);
 
 // const scribd_splitted_link = scribd_link.split("/");
 
-// const document_id = https://www.scribd.com/document/618529848/The-Husky-and-His-White-Cat-Shizun-Erha-He-Ta-de-Bai-Mao-Shizun-Vol-1scribd_splitted_link[4];
+// const document_id = https://www.scribd.com/document/123456789/example
 
 // const bypassed_link = `https://www.scribd.com/embeds/${document_id}/content?start_page=1&view_mode=scroll`;
 
